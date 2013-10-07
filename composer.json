@@ -1,0 +1,14 @@
+{
+    "name": "rdc/symfony-component-config",
+    "description": "Addons to Symfony Config component.",
+    "require": {
+        "symfony/config": "2.3.*"
+    },
+    "license": "Apache License, Version 2.0",
+    "authors": [
+        {
+            "name": "rdc.li",
+            "email": "contact@rdc.li"
+        }
+    ]
+}
